@@ -1,3 +1,8 @@
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Focus](https://img.shields.io/badge/Focus-Mobile%20Security-blue)
+![Type](https://img.shields.io/badge/Research-TLS%20Analysis-red)
+![Status](https://img.shields.io/badge/Disclosure-Responsible-success)
+
 # Android TLS Security Research — Reverse Engineering & Static Analysis
 
 ## Overview
